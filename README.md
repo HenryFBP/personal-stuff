@@ -2,7 +2,7 @@
 
 ## building
 
-`xelatex build`
+`xelatex resume.tex`
 
 ### Linux deps
 
